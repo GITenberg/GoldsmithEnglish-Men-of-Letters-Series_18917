@@ -1,0 +1,33 @@
+_repo: GoldsmithEnglish-Men-of-Letters-Series_18917
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, William
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '6136'
+    url: http://www.gutenberg.org/2009/agents/6136
+    wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
+description: This 1878 installment in John Morley's English Men of Letters Series
+  sympathetically reviews the life and works of the Irish writer Oliver Goldsmith.
+  Black defends Goldsmith by reviewing his education, travel, personal traits, literature,
+  and the difficulties he faced along the way.
+gutenberg_issued: '2006-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Irish -- 18th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Goldsmith, Oliver, 1730?-1774'
+title: 'Goldsmith
+
+  English Men of Letters Series'
+url: http://www.gutenberg.org/ebooks/18917
